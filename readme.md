@@ -9,7 +9,7 @@ This example uses a visualization tool to show the ability of a neural network t
 nonlinear function of the form *y = f(x) + n*, where *n* is random observation noise. In the example,
 the nonlinear function is:
 
-      *y = x^4 tanh(x) + n*
+*y = x^4 tanh(x) + n*
 
 where *n* is observation noise from a normal distribution with zero mean and a standard deviation of *0.2*.
 
